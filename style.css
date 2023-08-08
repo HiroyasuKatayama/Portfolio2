@@ -371,6 +371,9 @@ h1.id,
   padding-bottom: 50px;
 }
 
+#about .txt {
+  padding-bottom: 50px;
+
 .about-img {
   display: flex;
   justify-content: center;
