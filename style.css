@@ -206,7 +206,7 @@ h1.id,
 	height: 100%;
 	fill: #fff;
 	stroke: #111;
-	animation: 12s linear infinite rotate;
+	animation: 40s linear infinite rotate;
 }
 
 @keyframes rotate{
